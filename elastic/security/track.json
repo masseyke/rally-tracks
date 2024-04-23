@@ -407,6 +407,7 @@
 {% endfor %}
   ],
   "dependencies": [
+    "elasticsearch==8.6.1",
     "geneve==0.2.0",
     "pyyaml"
   ],
